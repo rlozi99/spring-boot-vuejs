@@ -3,7 +3,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
 trigger:
-- vue-cli-v2-webpack-v3
+- master
 
 resources:
 - repo: self
